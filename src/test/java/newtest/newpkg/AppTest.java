@@ -1,4 +1,4 @@
-package test.pkg;
+package newtest.newpkg;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

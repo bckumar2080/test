@@ -1,4 +1,4 @@
-package test.pkg;
+package newtest.newpkg;
 
 /**
  * Hello world!
