@@ -10,6 +10,6 @@ public class App
     {
         System.out.println( "Hello World!" );
                 
-        System.out.println(json);
+        System.out.println("json");
     }
 }
