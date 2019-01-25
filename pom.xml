@@ -40,7 +40,10 @@
       <version>2.9.8</version>
     </dependency>
   </dependencies>
-  <plugins>
+   <build>
+    <sourceDirectory>src</sourceDirectory>
+   
+    <plugins>
       <plugin>
         <artifactId>maven-compiler-plugin</artifactId>
         <version>3.8.0</version>
@@ -49,4 +52,6 @@
         </configuration>
       </plugin>
     </plugins>
+    
+  </build>
 </project>
