@@ -42,7 +42,7 @@
           <release>10</release>
 	  <archive>
 	    <manifest>
-		<mainClass>com.mkyong.core.App</mainClass>
+		<mainClass>postp.pclass</mainClass>
 	    </manifest>
 	  </archive>
         </configuration>
