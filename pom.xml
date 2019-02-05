@@ -3,14 +3,7 @@
   <groupId>post</groupId>
   <artifactId>post</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <configuration>
-	  <archive>
-	    <manifest>
-		<mainClass>com.mkyong.core.App</mainClass>
-	    </manifest>
-	  </archive>
-</configuration>
-   <name>postmaven</name>
+    <name>postmaven</name>
    <dependencies>
   <dependency>
     <groupId>com.fasterxml.jackson.core</groupId>
@@ -47,6 +40,11 @@
         <version>3.8.0</version>
         <configuration>
           <release>10</release>
+	  <archive>
+	    <manifest>
+		<mainClass>com.mkyong.core.App</mainClass>
+	    </manifest>
+	  </archive>
         </configuration>
       </plugin>
     </plugins>
