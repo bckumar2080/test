@@ -1,10 +1,4 @@
-package newtest.newpkg;
-
-/**
- * Hello world!
- *
- */
- 
+package postp;
 
 	import java.io.File;
 	import java.io.FileWriter;
@@ -59,7 +53,7 @@ package newtest.newpkg;
 
 
 	@SuppressWarnings("deprecation")
-	public class App {
+	public class pclass {
 			   
 		private static CloseableHttpClient client = HttpClientBuilder.create().build();
 		private static String apijsonoutput;
