@@ -9,7 +9,7 @@
 		<mainClass>com.mkyong.core.App</mainClass>
 	    </manifest>
 	  </archive>
-	</configuration>
+</configuration>
    <name>postmaven</name>
    <dependencies>
   <dependency>
