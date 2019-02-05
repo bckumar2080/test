@@ -55,7 +55,7 @@ package newtest.newpkg;
 
 
 	@SuppressWarnings("deprecation")
-	public class App {
+	public class Main {
 			   
 		private static CloseableHttpClient client = HttpClientBuilder.create().build();
 		private static String apijsonoutput;
